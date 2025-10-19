@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Lo-Fi Chill Beats",
+    "description": "Relaxing lo-fi hip hop beats perfect for studying or chilling. Smooth basslines with jazzy samples.",
+    "tags": ["lo-fi", "chill", "hip-hop"],
+    "author": "BeatsLab",
+    "date": "2025-10-15",
+    "audioPreview": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "808 Trap Banger",
+    "description": "Heavy 808s with crispy hi-hats and a hard-hitting snare. Turn up the volume!",
+    "tags": ["trap", "808", "hard"],
+    "author": "TrapKing",
+    "date": "2025-10-14",
+    "audioPreview": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "House Party Starter",
+    "description": "Energetic house track with a bouncy bassline that gets everyone moving. Four-to-the-floor perfection.",
+    "tags": ["house", "dance", "party"],
+    "author": "DJ Nova",
+    "date": "2025-10-13",
+    "audioPreview": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Ambient Soundscape",
+    "description": "Atmospheric pads and subtle percussion creating a dreamy sonic landscape.",
+    "tags": ["ambient", "atmospheric", "chill"],
+    "author": "SonicDreams",
+    "date": "2025-10-12",
+    "audioPreview": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Boom Bap Classic",
+    "description": "Old school hip hop vibes with classic boom bap drums and vinyl crackle.",
+    "tags": ["boom-bap", "hip-hop", "classic"],
+    "author": "VintageBeats",
+    "date": "2025-10-11",
+    "audioPreview": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Techno Underground",
+    "description": "Dark and driving techno with pounding kicks and hypnotic synth patterns.",
+    "tags": ["techno", "underground", "dark"],
+    "author": "TechnoCore",
+    "date": "2025-10-10",
+    "audioPreview": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+  }
+]

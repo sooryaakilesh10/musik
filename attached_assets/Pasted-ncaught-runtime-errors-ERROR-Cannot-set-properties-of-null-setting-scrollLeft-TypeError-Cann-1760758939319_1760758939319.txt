@@ -1,0 +1,28 @@
+ncaught runtime errors:
+×
+ERROR
+Cannot set properties of null (setting 'scrollLeft')
+TypeError: Cannot set properties of null (setting 'scrollLeft')
+    at handleScroll (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:43088:26)
+    at onScroll (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:43558:27)
+    at HTMLUnknownElement.callCallback (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:9685:18)
+    at Object.invokeGuardedCallbackDev (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:9729:20)
+    at invokeGuardedCallback (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:9786:35)
+    at invokeGuardedCallbackAndCatchFirstError (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:9800:29)
+    at executeDispatch (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:13943:7)
+    at processDispatchQueueItemsInOrder (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:13969:11)
+    at processDispatchQueue (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:13980:9)
+    at dispatchEventsForPlugins (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:13989:7)
+ERROR
+Cannot set properties of null (setting 'scrollLeft')
+TypeError: Cannot set properties of null (setting 'scrollLeft')
+    at handleScroll (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:43088:26)
+    at onScroll (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:43558:27)
+    at HTMLUnknownElement.callCallback (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:9685:18)
+    at Object.invokeGuardedCallbackDev (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:9729:20)
+    at invokeGuardedCallback (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:9786:35)
+    at invokeGuardedCallbackAndCatchFirstError (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:9800:29)
+    at executeDispatch (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:13943:7)
+    at processDispatchQueueItemsInOrder (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:13969:11)
+    at processDispatchQueue (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:13980:9)
+    at dispatchEventsForPlugins (https://590e7b0a-2ff2-4d54-adc4-c49a8312569b-00-69gpqejp5fx5.sisko.replit.dev/static/js/bundle.js:13989:7)

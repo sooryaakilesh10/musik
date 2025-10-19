@@ -1,0 +1,109 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #f5f5f5;
+  color: #000000;
+  margin: 0;
+  font-family: 'Inter', 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 700;
+}
+
+/* Hide input arrows */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* Custom scrollbar - neobrutalist style */
+.timeline-scroll::-webkit-scrollbar {
+  height: 8px;
+}
+
+.timeline-scroll::-webkit-scrollbar-track {
+  background: #ffffff;
+  border: 2px solid #000000;
+}
+
+.timeline-scroll::-webkit-scrollbar-thumb {
+  background: #ff006e;
+  border: 2px solid #000000;
+}
+
+.timeline-scroll::-webkit-scrollbar-thumb:hover {
+  background: #00d9ff;
+}
+
+/* Hide scrollbar */
+.overflow-auto::-webkit-scrollbar {
+  display: none;
+}
+.overflow-auto {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.overflow-y-auto::-webkit-scrollbar {
+  display: none;
+}
+.overflow-y-auto {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.overflow-x-auto::-webkit-scrollbar {
+  display: none;
+}
+.overflow-x-auto {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Prevent user highlight */
+* {
+  -webkit-user-select: none;
+   -khtml-user-select: none;
+     -moz-user-select: none;
+       -o-user-select: none;
+          user-select: none;
+}
+
+/* Remove blue highlight on mobile taps */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Remove focus highlight */
+* {
+  outline: none;
+}
+
+/* Neobrutalist button animations */
+@keyframes bounce-brutal {
+  0%, 100% {
+    transform: translate(0, 0);
+    box-shadow: 6px 6px 0px 0px #000000;
+  }
+  50% {
+    transform: translate(3px, 3px);
+    box-shadow: 3px 3px 0px 0px #000000;
+  }
+}
+
+.btn-brutal-hover:hover {
+  animation: bounce-brutal 0.3s ease-in-out;
+}
+
+.btn-brutal-active:active {
+  transform: translate(6px, 6px);
+  box-shadow: 0px 0px 0px 0px #000000 !important;
+}

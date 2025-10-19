@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "type": "Kick",
+    "path": "./sounds/kit1/kick1.wav",
+    "color": "#003049",
+    "name": "Kick 1",
+    "audio": null
+  },
+  {
+    "id": 2,
+    "type": "Snare",
+    "path": "./sounds/kit1/snare1.wav",
+    "color": "#e4572e",
+    "name": "Snare 1",
+    "audio": null
+  },
+  {
+    "id": 3,
+    "type": "Hi-hat",
+    "path": "./sounds/kit1/hihat1.wav",
+    "color": "#177e89",
+    "name": "Hi-hat 1",
+    "audio": null
+  },
+  {
+    "id": 4,
+    "type": "Clap",
+    "path": "./sounds/kit1/clap1.wav",
+    "color": "#d8973c",
+    "name": "Clap 1",
+    "audio": null
+  },
+  {
+    "id": 5,
+    "type": "Chord",
+    "path": "./sounds/kit1/chord1.wav",
+    "color": "#a63446",
+    "name": "Chord 1",
+    "audio": null
+  },
+  {
+    "id": 6,
+    "type": "808",
+    "path": "./sounds/kit1/8081.wav",
+    "color": "#a60067",
+    "name": "808 1",
+    "audio": null
+  },
+  {
+    "id": 7,
+    "type": "Shake",
+    "path": "./sounds/kit1/shake1.wav",
+    "color": "#ed7d3a",
+    "name": "Shake 1",
+    "audio": null
+  },
+  {
+    "id": 8,
+    "type": "Bass",
+    "path": "./sounds/kit1/bass1.wav",
+    "color": "#00b9ae",
+    "name": "Bass 1",
+    "audio": null
+  },
+  {
+    "id": 9,
+    "type": "FX",
+    "path": "./sounds/kit1/fx1.wav",
+    "color": "#87bcde",
+    "name": "FX 1",
+    "audio": null
+  }
+]
